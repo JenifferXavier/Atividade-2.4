@@ -1,1 +1,2 @@
 Linha 1 da atividade
+Linha 2 da atividade adicionada sem conflito
